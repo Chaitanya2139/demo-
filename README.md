@@ -1,4 +1,4 @@
 # demo-
 nothing just experiencing github
 <br>
-Author - Chaitanya
+Author - Chaitanya Awasthi
